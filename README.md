@@ -20,7 +20,8 @@ Enjoy !:)
 Pour simplifier les choses aux débutants et paresseux,
 sous Debian (donc aussi Ubuntu) vous pouvez vous contenter d'utiliser le script fourni ;)
 
-Il télécharge automatiquement la banque de sons et la décompresse dans le dossier ~/config/Mumble/
+Il télécharge automatiquement la banque de sons "sympassons.zip"
+puis la décompresse dans le dossier ~/config/Mumble/
 car c'est là aussi qu'il modifie le fichier de paramétrages audio de l'utilisateur Mumble en y ajoutant des lignes de texte par la commande suivante :
 echo "2\logsound=~/.config/Mumble/CriticalError.wav
 5\logsound=~/.config/.config/Mumble/ServerConnected.wav
@@ -41,3 +42,5 @@ echo "2\logsound=~/.config/Mumble/CriticalError.wav
 17\logsound=~/.config/.config/Mumble/ChannelJoin.wav
 18\logsound=~/.config/.config/Mumble/ChannelLeave.wav
 19\logsound=~/.config/.config/Mumble/Warning.wav" >> ~/.config/Mumble/Mumble.conf
+
+En fin de parcours, les fichiers "sympassons.zip" et le script, devenus inutiles, s'auto-supprimeront.
