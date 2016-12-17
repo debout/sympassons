@@ -18,12 +18,12 @@ Now doubleclick those entries in the column "Path" which you want to change.
 Enjoy !:)
 
 
-Pour simplifier les choses aux débutants et paresseux,
-sous Debian (donc aussi Ubuntu) vous pouvez vous contenter d'utiliser le script fourni ;)
+Prochainement, ici, pour simplifier les choses aux débutants et paresseux,
+sous Debian (donc aussi Ubuntu) vous pourrez vous contenter d'utiliser le script bientôt en ligne ;)
 
-Il télécharge automatiquement la banque de sons "sympassons.zip"
-puis la décompresse dans le dossier ~/config/Mumble/
-car c'est là aussi qu'il modifie le fichier de paramétrages audio de l'utilisateur Mumble en y ajoutant juste quelques lignes de texte grâce à la commande suivante :
+Il téléchargera automatiquement la banque de sons "sympassons.zip"
+puis la décompressera dans le dossier ~/config/Mumble/
+car c'est là aussi qu'il modifiera le fichier de paramétrages audio de l'utilisateur Mumble en y ajoutant juste quelques lignes de texte grâce à la commande suivante :
 
 echo "2\logsound=~/.config/Mumble/CriticalError.wav
 5\logsound=~/.config/.config/Mumble/ServerConnected.wav
