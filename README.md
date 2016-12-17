@@ -1,8 +1,8 @@
 # sympassons
 banque de sons doux pour mumble (sweety soundpack)
 
-a. Cliquez sur le lien suivant pour télécharger notre banque de sons mumble plus discrets :
-sympassons.zip
+a. Cliquez sur "sympassons.zip" pour télécharger notre banque de sons mumble plus discrets
+
 b. Une fois cette archive zip enregistrée dans votre ordinateur, décompressez-la (ou ouvrez-la pour en verser le contenu dans un dossier que vous conserverez toujours au même endroit pour que Mumble l'y retrouve)
 c. Ouvrez Mumble, cliquez sur "Configurer" puis "Paramètres"
 d. Dans les paramètres,assurez-vous d'avoir coché la case "Avancé" puis allez au menu "Messages"
